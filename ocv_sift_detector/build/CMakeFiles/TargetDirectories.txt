@@ -1,0 +1,7 @@
+/home/cvpi36/ocv_sift_detector/build/CMakeFiles/install/local.dir
+/home/cvpi36/ocv_sift_detector/build/CMakeFiles/install.dir
+/home/cvpi36/ocv_sift_detector/build/CMakeFiles/ocv_sift_detector.dir
+/home/cvpi36/ocv_sift_detector/build/CMakeFiles/install/strip.dir
+/home/cvpi36/ocv_sift_detector/build/CMakeFiles/edit_cache.dir
+/home/cvpi36/ocv_sift_detector/build/CMakeFiles/rebuild_cache.dir
+/home/cvpi36/ocv_sift_detector/build/CMakeFiles/list_install_components.dir

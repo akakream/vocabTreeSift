@@ -1,0 +1,7 @@
+queries/bottle5.jpg.key
+queries/box5.jpg.key
+queries/headphone5.jpg.key
+queries/mouse5.jpg.key
+queries/speaker5.jpg.key
+queries/wallet5.jpg.key
+queries/watch5.jpg.key
